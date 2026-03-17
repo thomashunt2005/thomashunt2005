@@ -1,8 +1,5 @@
 
 
-<!--
-**thomashunt2005/thomashunt2005** is a ✨ _special# Thomas Hunt
-
 Self-taught developer and entrepreneur based in Winchester, UK.
 
 I build commercial Android apps and AI automation tools — 
